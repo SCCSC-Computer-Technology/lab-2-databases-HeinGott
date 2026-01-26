@@ -1,0 +1,13 @@
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\bin\Debug\CityDB.mdf
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\bin\Debug\CityDB_log.ldf
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\bin\Debug\H-Gottberg-Lab-2.exe.config
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\bin\Debug\H-Gottberg-Lab-2.exe
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\bin\Debug\H-Gottberg-Lab-2.pdb
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\obj\Debug\H-Gottberg-Lab-2.csproj.AssemblyReference.cache
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\obj\Debug\H_Gottberg_Lab_2.Form1.resources
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\obj\Debug\H_Gottberg_Lab_2.Properties.Resources.resources
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\obj\Debug\H-Gottberg-Lab-2.csproj.GenerateResource.cache
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\obj\Debug\H-Gottberg-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\obj\Debug\H-Gottberg-Lab-2.exe
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\obj\Debug\H-Gottberg-Lab-2.pdb
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\Zip Labs\Unzipped Labs\H-Gottberg-Lab-2\obj\Debug\H-Gottberg-Lab-2.exe.config
