@@ -1,44 +1,24 @@
 Lab 2 Code Review
-By Shawn Conboy
-
-First off, does the program run initially with no issues?
-
-	Program runs initially. No issues upon normal usage.
-	(just pressing given buttons).
-
-	Sort Population button (alphabetical). First impression, 
-	what exactly does this sort? I can see what is sorted 
-	after pressing the button, but it's not clearly noted
-	prior to pressing button. 
-
-	Possibly reword text to say "Sort City (alphabetical)"
-
-	I also added a record. That worked fine and updated the
-	cityID after saving.
-
-	I liked the formatting of the message boxes. Clean and 
-	simple UI.
+Brieana Hunter
 
 
-Is the code generally readable and well-documented?
-	
-	Yes. Code is readable and well documented. Methods have a
-	start point. Methods have comments allowing reviewer to 
-	understand clearly what method should be doing.
+First Impressions:
+I like the layout of your GUI; it is easy on the eyes and simple for the user to navigate. I also like how you used message boxes to display information, such as population and average. I also like how nice and big the buttons are; it makes it easy for the users to see and read. Overall, I think the application's layout is very user-friendly and easy to navigate. 
 
-Did you find any software defects?
-	
-	No software defects were found. No errors or warning in
-	debug console while running.
 
-What was one way that your solution differed from yours?
-	
-	We have very similar solutions. Your message boxes to 
-	show data to user are where our programs differed.
-	I used labels to show data instead.
+Readability:
+The code is very easy to read, not overly complicated, and easy to follow. I like how you coded this program; it is very simple, which I really like. Also, great job on including comments; I often forget to do so. The comments make it very easy to follow along with your code.
 
-Do you have any other constructive comments for the author?
-	
-	Nothing here that wasn't stated at the very beginning.
-	Clean, solid lab. Will love to review your next.
 
+Software Error:
+I did not notice any errors.
+
+
+How Our Programs Differ:
+Our programs are quite different, for example, to get the average of the row I did-
+average = cityDBDataSet.City.Average(row => row.Population);
+You did a getaveragepopulation method, which I think is a great way to do it, it is easier to understand.
+
+
+Constrictive Criticism:
+I don't have any criticism. I like the way you coded your program, and the layout was nice and easy to read. 
