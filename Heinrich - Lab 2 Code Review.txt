@@ -1,0 +1,16 @@
+Heinrich Lab 2 Code Review
+
+First Impression:
+Very easy to read, well organized. The form is also laid out well with the big buttons.
+
+Readable:
+The code is very easy to read. Very simple code, I can tell what line does what. 
+
+Errors:
+No actual errors found, but the button for sorting cities by name says "sort population (alphabetical)" instead of saying "sort cities (alphabetical)"
+
+How our programs differed:
+My program has the buttons sorted into group boxes, as well as a group box for editing/adding cities.
+
+Constructive criticism:
+I don't have anything that I can say needs changing, good project.
